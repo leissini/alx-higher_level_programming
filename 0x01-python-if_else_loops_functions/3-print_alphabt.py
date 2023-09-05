@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-for a in "abcdefghijklmnopqrstuvwxyz":
-    if(a not in "qe"):
-        print("{}".format(a), end='')
+for i in range(97, 123):
+    if i != 101 and i != 113:
+        print("{}".format(chr(i)), end="")
