@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# by lei ssini 
+# by lei ssini
 """Define a class Square."""
 
 
