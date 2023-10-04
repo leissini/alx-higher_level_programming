@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# lei ssini
 """Defines a matrix multiplication function."""
 
 
